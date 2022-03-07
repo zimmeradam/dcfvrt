@@ -12,16 +12,16 @@ astroid==2.8.4
 astropy==3.2.1
 atomicwrites==1.3.0
 attrs==20.3.0
-Automat @ file:///tmp/build/80754af9/automat_1600298431173/work
+Automat==20.2.0
 autopep8==1.6.0
 Babel==2.7.0
 backcall==0.1.0
-backports.functools-lru-cache @ file:///tmp/build/80754af9/backports.functools_lru_cache_1605305165209/work
+backports.functools-lru-cache==1.6.1
 backports.os==0.1.1
 backports.shutil-get-terminal-size==1.0.0
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
+backports.tempfile==1.0
 backports.weakref==1.0.post1
-bcrypt @ file:///opt/concourse/worker/volumes/live/25966884-1a49-4448-62e7-44563eba29d2/volume/bcrypt_1597936171818/work
+bcrypt==3.2.0
 beautifulsoup4==4.7.1
 bitarray==0.9.3
 bkcharts==0.2
@@ -44,7 +44,7 @@ clyent==1.2.2
 colorama==0.4.1
 conda==4.9.2
 conda-build==3.18.8
-conda-package-handling @ file:///opt/concourse/worker/volumes/live/41a2ba95-d84c-4c06-4d6e-5665866bc5b4/volume/conda-package-handling_1603018173200/work
+conda-package-handling==1.7.2
 conda-verify==3.4.2
 configparser==5.0.0
 constantly==15.1.0
@@ -102,7 +102,7 @@ heapdict==1.0.0
 helpdev==0.6.10
 html5lib==1.0.1
 httptools==0.3.0
-hyperlink @ file:///tmp/build/80754af9/hyperlink_1610130746837/work
+hyperlink==21.0.0
 idna==2.8
 ijson==2.5.1
 imageio==2.5.0
@@ -117,13 +117,13 @@ ipython==7.6.1
 ipython-genutils==0.2.0
 ipywidgets==7.5.0
 isort==5.10.0
-itemadapter @ file:///tmp/build/80754af9/itemadapter_1605069490748/work
-itemloaders @ file:///tmp/build/80754af9/itemloaders_1606148664897/work
+itemadapter==0.2.0
+itemloaders==1.0.4
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.13.3
 Jinja2==2.10.1
-jmespath @ file:///tmp/build/80754af9/jmespath_1594304593830/work
+jmespath==0.10.0
 joblib==0.13.2
 json5==0.8.4
 jsonlines==1.2.0
@@ -192,6 +192,7 @@ pep8==1.7.1
 pexpect==4.7.0
 pickleshare==0.7.5
 Pillow==6.1.0
+pip==20.3.3
 pipreqs==0.4.10
 pkginfo==1.5.0.1
 platformdirs==2.4.0
@@ -201,7 +202,7 @@ ply==3.11
 plyer==1.4.3
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
-Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
+Protego==0.1.16
 protobuf==3.11.3
 psutil==5.6.3
 psycopg2==2.8.4
@@ -222,7 +223,7 @@ PyDispatcher==2.0.5
 pyflakes==2.1.1
 PyGetWindow==0.0.9
 Pygments==2.4.2
-PyHamcrest @ file:///tmp/build/80754af9/pyhamcrest_1594390921726/work
+PyHamcrest==2.0.2
 pylint==2.11.1
 pymongo==3.12.0
 PyMsgBox==1.0.9
@@ -342,7 +343,7 @@ pytest-astropy==0.5.0
 pytest-doctestplus==0.3.0
 pytest-openfiles==0.3.2
 pytest-remotedata==0.3.1
-pytest-runner @ file:///home/linux1/recipes/ci/pytest-runner_1610986971179/work
+pytest-runner==5.2
 python-dateutil==2.8.0
 python-dotenv==0.19.2
 python-telegram-bot==12.6.1
@@ -369,11 +370,12 @@ rubicon-objc==0.4.0
 scikit-image==0.15.0
 scikit-learn==0.21.2
 scipy==1.3.0
-Scrapy @ file:///Users/runner/miniforge3/conda-bld/scrapy_1605626691151/work
+Scrapy==2.4.1
 seaborn==0.9.0
 selenium==3.141.0
 Send2Trash==1.5.0
 service-identity==18.1.0
+setuptools==42.0.2
 Shapely==1.6.4.post2
 simpleaudio==1.0.4
 simplegeneric==0.8.1
@@ -423,6 +425,7 @@ webdriverdownloader==1.1.0.3
 webencodings==0.5.1
 websockets==10.2
 Werkzeug==0.15.4
+wheel==0.33.4
 widgetsnbextension==3.5.0
 wikipedia==1.4.0
 Wikipedia-API==0.5.4
@@ -436,4 +439,4 @@ xmltodict==0.12.0
 yarg==0.1.9
 zict==1.0.0
 zipp==0.5.1
-zope.interface @ file:///opt/concourse/worker/volumes/live/9b4a6693-5968-464b-4257-b8041d527125/volume/zope.interface_1606940322645/work
+zope.interface==5.2.0

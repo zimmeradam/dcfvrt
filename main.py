@@ -6,8 +6,6 @@ from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 app = FastAPI()
 
-app.mount("/static", StaticFiles(directory="static"), name="static")
-
 
 lista={}
 lista['1134'] = '-778541371'

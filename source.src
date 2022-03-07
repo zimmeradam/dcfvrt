@@ -4,3 +4,9 @@ https://api.telegram.org/bot1252496943:AAH0L5rIaQOc6sCw7E23s0nUgrlQsOih8iw/getUp
 https://www.toptal.com/python/telegram-bot-tutorial-python
 https://codepen.io/warrendunlop/pen/YmVKzm
 https://codepen.io/akashrajendra/pen/JKKRvQ
+
+Heroku tanulságok:
+- csak a szükséges requirementek menjenek fel
+- legyen procfile
+- legyen dyno
+- legyen helyen a port a procfile-ban
